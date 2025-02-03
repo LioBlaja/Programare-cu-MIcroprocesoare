@@ -1,2 +1,3 @@
-# Programare-cu-MIcroprocesoare
+# Programare-cu-Microprocesoare
 Microsistem 8086
+
